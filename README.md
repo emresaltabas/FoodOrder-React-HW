@@ -2,8 +2,6 @@
 
 
 
-## See Live : [Here](https://emresaltabas.github.io/Food_Order_Project_React/)
-
 ## Built With
 
 - [React.js]
