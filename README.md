@@ -1,6 +1,6 @@
 # Food Order Project
 
-## See Live : [Here](https://emresaltabas.github.io/FoodOrder_Project_React/)
+
 
 
 
