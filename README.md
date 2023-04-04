@@ -24,12 +24,4 @@
   ```sh
   yarn install
   ```
-- Run React dev server (http://localhost:5173/)
-  - Run with npm:
-  ```sh
-  npm run dev
-  ```
-  - Run with yarn:
-  ```sh
-  yarn run dev
-   ```
+
